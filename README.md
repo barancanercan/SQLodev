@@ -1,4 +1,4 @@
-# PATİKA SQL DERSİ ÖDEV1 ÇÖZÜMLERİ
+# PATİKA SQL DERSİ ÖDEV 1ve2 ÇÖZÜMLERİ
 
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) SQL Eğitiminde oluşturduğum projenin repo'sudur. İçerisinde bir adet README dosyası, bir adet sql dosyası barındırıyor.
 
