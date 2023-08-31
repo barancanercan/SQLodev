@@ -1,6 +1,6 @@
-# PATİKA SQL DERSİ ÖDEV 1ve2 ÇÖZÜMLERİ
+# PATİKA SQL DERSİ ÖDEV ÇÖZÜMLERİ
 
-Bu repo [kodluyoruz](https://www.kodluyoruz.org/) SQL Eğitiminde oluşturduğum projenin repo'sudur. İçerisinde bir adet README dosyası, bir adet sql dosyası barındırıyor.
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) SQL Eğitiminde oluşturduğum projenin repo'sudur. İçerisinde bir adet README dosyası, 12 adet sql dosyası barındırıyor.
 
 ```bash
 git clone https://github.com/barancanercan/SQLodev
